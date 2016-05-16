@@ -1,3 +1,3 @@
 #Práctica complementaría para Administración de base de datos
 
-https://www.dropbox.com/s/n1i4m5ovsuy3ugu/Pr%C3%A1ctica%20abd.docx?dl=0
+https://www.dropbox.com/s/okfhuawg4d3kw0h/Mongo%20ABD.pdf?dl=0
