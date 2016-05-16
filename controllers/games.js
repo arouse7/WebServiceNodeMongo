@@ -55,7 +55,7 @@ module.exports = function (app) {
             game.name = req.body.name;
             game.plataform = req.body.plataform;
             game.type = req.body.type;
-            game.rating = req.body.raiting;
+            game.rating = req.body.rating;
             game.rate = req.body.rate;
 
             game.save(function (err) {
