@@ -6,7 +6,7 @@ var mongoose = require('mongoose'),
     name: String,
     plataform: String,
     type: String,
-    raiting: String,
+    rating: String,
     rate: Number
   });
 
